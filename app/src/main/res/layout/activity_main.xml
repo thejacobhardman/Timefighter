@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorBackground"
-    tools:context="com.raywenderlich.timefighter.MainActivity">>
+    tools:context="com.raywenderlich.timefighter.MainActivity">
 
     <TextView
         android:id="@+id/game_score_text_view"
